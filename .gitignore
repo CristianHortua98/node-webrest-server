@@ -4,3 +4,4 @@ keys/
 
 postgres/
 /generated/prisma
+dist/
